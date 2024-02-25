@@ -1,0 +1,105 @@
+{
+    "Data": [
+        {
+            "_id": "65db269b9ec8d14560d3cde1",
+            "name": "galaxys23",
+            "price": 20000,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "samsung",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde0",
+            "name": "iphone",
+            "price": 10000,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "apple",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde5",
+            "name": "dell24",
+            "price": 2000,
+            "featured": false,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "dell",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde4",
+            "name": "xiaomi23",
+            "price": 12000,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "mi",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde6",
+            "name": "iphone14",
+            "price": 50000,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "apple",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde7",
+            "name": "Redmi",
+            "price": 12000,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "mi",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde9",
+            "name": "galaxys27",
+            "price": 20000,
+            "featured": true,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "samsung",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde8",
+            "name": "samsungS23",
+            "price": 5000,
+            "featured": false,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "samsung",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde2",
+            "name": "onePlus nord",
+            "price": 5000,
+            "featured": false,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "mi",
+            "__v": 0
+        },
+        {
+            "_id": "65db269b9ec8d14560d3cde3",
+            "name": "micro23",
+            "price": 1000,
+            "featured": false,
+            "rating": 4.9,
+            "createdAt": "2024-02-25T11:37:53.375Z",
+            "company": "dell",
+            "__v": 0
+        }
+    ],
+    "nbHits": 10
+}
