@@ -1,0 +1,73 @@
+[
+    {
+        "name":"iphone",
+        "price":"10000",
+        "featured":"true",
+        "company":"apple"
+    },
+
+    {
+        "name":"galaxys23",
+        "price":"20000",
+        "featured":"true",
+        "company":"samsung"
+    },
+
+    {
+        "name":"onePlus nord",
+        "price":"5000",
+        "featured":"false",
+        "company":"mi"
+    },
+
+    {
+        "name":"micro23",
+        "price":"1000",
+        "featured":"false",
+        "company":"dell"
+    },
+
+
+    {
+        "name":"xiaomi23",
+        "price":"12000",
+        "featured":"true",
+        "company":"mi"
+    },
+
+
+    {
+        "name":"dell24",
+        "price":"2000",
+        "featured":"false",
+        "company":"dell"
+    },
+    {
+        "name":"iphone14",
+        "price":"50000",
+        "featured":"true",
+        "company":"apple"
+    },
+
+    {
+        "name":"Redmi",
+        "price":"12000",
+        "featured":"true",
+        "company":"mi"
+    },
+
+    {
+        "name":"samsungS23",
+        "price":"5000",
+        "featured":"false",
+        "company":"samsung"
+    },
+
+    {
+        "name":"galaxys27",
+        "price":"20000",
+        "featured":"true",
+        "company":"samsung"
+    }
+
+]
